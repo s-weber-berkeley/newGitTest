@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3e373d14-73e3-4669-9fa9-734363a756f9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,12 +80,32 @@
       <option name="presentableId" value="Default" />
       <updated>1578275517504</updated>
     </task>
+    <task id="LOCAL-00001" summary="testing changes, adding files">
+      <created>1578276573883</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578276573883</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="testing changes, adding files" />
+    <option name="LAST_COMMIT_MESSAGE" value="testing changes, adding files" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="409" y="77" key="CommitChangelistDialog2" timestamp="1578276572831">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="409" y="77" key="CommitChangelistDialog2/0.0.1504.963@0.0.1504.963" timestamp="1578276572831" />
     <state x="784" y="104" width="640" height="777" key="DiffContextDialog" timestamp="1578276493641">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
     <state x="784" y="104" width="640" height="777" key="DiffContextDialog/0.0.1504.963@0.0.1504.963" timestamp="1578276493641" />
+    <state x="345" y="215" key="Vcs.Push.Dialog.v2" timestamp="1578276590444">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="345" y="215" key="Vcs.Push.Dialog.v2/0.0.1504.963@0.0.1504.963" timestamp="1578276590444" />
   </component>
 </project>
