@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3e373d14-73e3-4669-9fa9-734363a756f9" name="Default Changelist" comment="" />
+    <list default="true" id="3e373d14-73e3-4669-9fa9-734363a756f9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,5 +82,11 @@
       <updated>1578275517504</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="784" y="104" width="640" height="777" key="DiffContextDialog" timestamp="1578276493641">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="784" y="104" width="640" height="777" key="DiffContextDialog/0.0.1504.963@0.0.1504.963" timestamp="1578276493641" />
   </component>
 </project>
